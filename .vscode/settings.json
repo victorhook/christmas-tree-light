@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.pef": "xml",
+        "arduino.h": "c",
+        "serialusb.h": "c",
+        "mpu6050_tockn.h": "c"
+    }
+}
